@@ -1,0 +1,13 @@
+/* CSS file to define different classes */
+
+.bluediv {
+	background-color :  #99ccff;
+}
+
+body {
+	background-color : #d6d6c2;
+}
+
+.whitediv {
+	background-color : white;
+}
